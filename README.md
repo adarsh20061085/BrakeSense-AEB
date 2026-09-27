@@ -162,7 +162,7 @@ This project was developed by:
 
 ---
 
-### 📄 Project Information
+### 📄 Total Project Information
 
 - Project Name: BrakeSense-AEB
 - Full Name: Smart Obstacle Detection & Automatic Emergency Braking System
