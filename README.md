@@ -2,7 +2,7 @@
 
 Smart Obstacle Detection & Automatic Emergency Braking System
 
-BrakeSense-AEB is an Arduino-based vehicle safety prototype that detects obstacles using a distance sensor, provides multi-stage visual and audio warnings, and automatically stops the motor when an obstacle reaches a critical distance.
+BrakeSense-AEB is an Arduino-based vehicle safety prototype that detects obstacles using a distance sensor, provides multi-stage visual and audio warnings, and automatically stops the motor when an obstacle reaches a critical distance...
 
 ---
 
@@ -156,7 +156,7 @@ This project was developed by:
 
 1. Arka Chakraborty
 2. Arnab Paul
-3. Deep Mondal
+3. Deep Mondal 
 4. Adarsh Kumar Sah
 5. Subhankar Dawn
 
